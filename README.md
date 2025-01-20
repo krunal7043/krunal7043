@@ -1,7 +1,7 @@
 ### Namaste :pray:
 
 👋 I'm Krunal Vaishnav, a passionate web developer on a journey to craft remarkable digital experiences.
- **Main-GitHub:** [krunalvaishnav1](https://github.com/krunalvaishnav1)
+ **Main-GitHub:** [krunalvaishnav1](https://github.com/krunalvaishnav)
 
 
 🚀 With a solid foundation in React.js, Angular.js, Express.js, CSS, JavaScript, HTML, and Java, I'm now delving into the world of Node.js to expand my skills and build scalable, efficient web applications.
@@ -17,9 +17,9 @@ Contect Me
 
 - **Gmail:** [krunalvaishnav@gmail.com](mailto:krunalvaishnav@gmail.com)
 - **Phone:** [+91 7043754778](tel:+7043754778)
-- **Main-GitHub:** [krunalvaishnav1](https://github.com/krunalvaishnav1)
+- **Main-GitHub:** [krunalvaishnav1](https://github.com/krunalvaishnav)
 - **LinkedIn:** [krunalvaishnav](https://www.linkedin.com/in/krunalvaishnav/)
-- **LeetCode:** [krunalvaishnav1](https://leetcode.com/u/krunalvaishnav1/)
+- **LeetCode:** [krunalvaishnav1](https://leetcode.com/u/krunalvaishnav/)
 - **GeeksforGeeks:** [krunalvais8yvr](https://www.geeksforgeeks.org/user/krunalvais8yvr/)
 
 
